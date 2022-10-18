@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>TecnoTech - inicio</title>
+        <link rel="stylesheet" href="tecnotech.css">
+    </head>
+<body>
+    <header>
+        <img id="fotologo" src="img/logo.png" alt="logotech">
+        <hr>
+        <section>
+            <a href="#">INICIO</a>
+            <a href="introducción.html">INTRODUCCIÓN</a>
+        </section>
+    </header>
+    <main>
+        <video src="" poster="" controls></video>
+    </main>
+    <footer>
+        <div id="final">
+          <h3 id="contacta">CONTACTA CON NOSOTROS:</h3>
+          <p>Mail - <a class="enlacesfoot" href="mailto:tecnotechsl@gmail.com">tecnotechsl@gmail.com</a>
+          <p>Tlf - <a class="enlacesfoot" href="tel:+34640570979">640 57 09 79</a>
+          <p>Ubicación - C. José Pardo Sastrón, 1, 44600 Alcañiz, Teruel</p>
+        </div>
+    </footer>
+</body>
+</html>
